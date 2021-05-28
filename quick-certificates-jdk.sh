@@ -9,7 +9,7 @@
 #==============================================================================
 
 pathJava="C:/Program Files/Java/jdk-11.0.9"
-pathCertificate-"C:/certificates"
+pathCertificate="C:/certificates"
 
 javaVersion=$("$pathJava/bin/java" -version 2>&1 | awk -F '"' '/version/ {print $2}')
 pass="changeit"
