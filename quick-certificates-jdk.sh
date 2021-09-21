@@ -2,9 +2,9 @@
 #title          :quick-certificates-jdk.sh
 #description    :Script to facilitate the import of various certificates for JDK cacerts.   
 #author		    :davydmaker
-#date           :20210910
+#date           :20210920
 #version        :1.2    
-#usage		    :bash mkscript.sh
+#usage		    :./quick-certificates-jdk.sh
 #notes          :Indicate the JDK directory and the directory with the certificates to install.
 #==============================================================================
 
